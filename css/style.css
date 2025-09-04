@@ -396,7 +396,7 @@ body {
 
 /* --- Адаптив  --- */
 
-@media (max-width: 1919px) {
+@media (max-width: 1660px) {
   .main-layout {
     max-width: 1200px;
     padding: 0 24px;
